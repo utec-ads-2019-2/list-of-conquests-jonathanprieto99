@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonathanprieto/Documents/GitHub/list-of-conquests-jonathanprieto99/main.cpp
+iostream
+-
+string.h
+-
+cstring
+-
+vector
+-
+algorithm
+-
+
